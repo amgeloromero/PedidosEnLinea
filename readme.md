@@ -33,6 +33,8 @@ Sistema web para gestión de pedidos en línea
 * php artisan migrate:refresh
 * php artisan db:seed
 * php artisan key:generate
+* php artisan session:table 
+* php artisan migrate
 * En caso de no generar los seed registrar un usuario y setearlo directamente en la tabla como Admin para la administración
 
 **Para enviar correos desde una cuenta gmail**
